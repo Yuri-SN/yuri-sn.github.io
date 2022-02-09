@@ -18,12 +18,12 @@ timezone: Asia/Yekaterinburg
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Puper Blog                      # the main title
+title: Мой блог                     # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Заметки на различные темы  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
+  Заметки на различные темы.
   bootstrap Jekyll theme with responsive web design
   and focuses on text presentation.
 
@@ -33,17 +33,17 @@ url: 'https://yurisol.ru'
 github:
   username: yuri-sn                     # change to your github username
 
-twitter:
-  username: JSonusX                     # change to your twitter username
+# twitter:
+#  username: JSonusX                     # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Yuri S
+  name: Юрий С
   email: jura.s.n@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/JSonusX       # change to your twitter homepage
+    # - https://twitter.com/JSonusX       # change to your twitter homepage
     - https://github.com/yuri-sn        # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -82,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/assets/img/tim_braid.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -97,7 +97,7 @@ comments:
     repo:         # <gh-username>/<repo>
     issue_term:   # < url | pathname | title | ...>
 
-paginate: 10
+paginate: 15
 
 # ------------ The following options are not recommended to be modified ------------------
 
