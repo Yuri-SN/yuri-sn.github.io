@@ -6,8 +6,6 @@ tags: [Печи]
 img_path: /assets/img/2012-06-01-Stove-Seminar/
 image:
   src: logo.jpg
-  width: 2048
-  height: 630
 toc: true
 ---
 

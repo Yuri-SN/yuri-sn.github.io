@@ -6,8 +6,6 @@ tags: [Балалайка]
 img_path: /assets/img/2020-02-23-Balalaika-Seminar/
 image:
   src: logo.jpg
-  width: 1241
-  height: 721
 toc: false
 ---
 

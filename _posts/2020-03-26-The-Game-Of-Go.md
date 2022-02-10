@@ -6,8 +6,6 @@ tags: [Го]
 img_path: /assets/img/2020-03-26-The-Game-Of-Go/
 image:
   src: logo.jpg
-  width: 1920
-  height: 955
 toc: true
 ---
 

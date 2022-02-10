@@ -6,8 +6,6 @@ tags: [Балалайка]
 img_path: /assets/img/2020-02-10-Balalaika/
 image:
   src: logo.jpg
-  width: 1755
-  height: 603
 toc: false
 ---
 
